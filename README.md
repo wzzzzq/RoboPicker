@@ -8,3 +8,5 @@ In code.zip, you will find all the code of Robopicker which consists of the 3 pa
 In CADs.zip, you will find all the CADs
 
 mega_shield.pcbdoc is the circuit diagram of RoboPicker
+
+sbus_test.ino is the test code of the sbus receiver, with which you can test your receiver
