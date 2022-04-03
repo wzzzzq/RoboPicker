@@ -7,4 +7,4 @@ In code.zip, you will find all the code of Robopicker which consists of the 3 pa
 
 In CADs.zip, you will find all the CADs
 
-in diagrams.zip, you will find the circuit diagram of RoboPicker
+mega_shield.pcbdoc is the circuit diagram of RoboPicker
