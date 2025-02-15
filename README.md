@@ -1,12 +1,25 @@
 # RoboPicker
-All done by Christian Wang 2022
 
-This repository contains 3 parts of RoboPicker: chassis, arm, and openmv camera
+## 项目简介
 
-In code.zip, you will find all the code of Robopicker which consists of the 3 parts above
+RoboPicker是一个由王子谦于2022年在华师大二附中科创班就读期间开发的机器人项目，该项目获得了上海市第37届科创大赛一等奖。RoboPicker由三个主要部分组成：底盘、机械臂和openmv相机。
 
-In CADs.zip, you will find all the CADs
+## 研究内容 & 成果
 
-mega_shield.pcbdoc is the circuit diagram of RoboPicker
+## 仓库内容
 
-sbus_test.ino is the test code of the sbus receiver, with which you can test your receiver
+- **代码**：在`./code`中，包含了RoboPicker的所有代码，代码分为底盘、机械臂和相机三个部分。
+- **CAD文件**：在`./CADs`中，包含了RoboPicker的所有CAD设计文件。
+- **arduino拓展板设计图**：`./PCB/mega_shield.pcbdoc`文件是RoboPicker的电路图。
+
+
+## 结构图
+
+![机器人结构示意图](机器人架构示意图.png)
+
+## 机器人成品展示
+![机器人外观展示](机器人外观.png)
+
+## 致谢
+
+感谢所有为本项目提供支持和帮助的人们，特别感谢第37届科创大赛评审团对本项目的认可。
